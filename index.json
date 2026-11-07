@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "agent-baselines",
+  "versions": [
+    {
+      "commit": "2d426deac51ad74381319bcfd77066c6e222ba30",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:38:41.193758+00:00"
+    }
+  ]
+}
